@@ -1,0 +1,7 @@
+# IDE
+.idea
+.vscode
+
+# project related files
+vendor
+composer.lock
