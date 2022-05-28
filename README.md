@@ -23,7 +23,7 @@ It explains how to assemble objects and classes into larger structures while kee
 - `DangerousHTMLTagsFilter`: **Concrete Decorator**, filter all dangerous (literally all) HTML tags
 
 
-## Run Test
+## Run / Test
 To run:
 ```angular2html
 - clone this repo
