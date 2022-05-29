@@ -4,6 +4,7 @@ Decorator, lets you
 - by placing these objects inside special wrapper objects ( that contain the behaviors )
 
 It is a **Structural Pattern**. 
+### More Details: [Documentation](https://docs.google.com/document/d/1x1Xk_y7dESYsaxAOsIKWWmlclnJkxktMf32RwfFknNE/edit#heading=h.xuyopzrj3dgw)
 
 ## Structural pattern
 It explains how to assemble objects and classes into larger structures while keeping these structures flexible and efficient.
